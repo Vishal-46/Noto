@@ -11,8 +11,6 @@ import pandas as pd
 # Install dependencies
 # poetry add requests pandas numpy
 # poetry add pytest --group dev
-
-# Example pyproject.toml structure:
 """
 [tool.poetry]
 name = "my-project"
